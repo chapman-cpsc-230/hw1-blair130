@@ -1,3 +1,12 @@
+"""
+File: <interest_rate.py>
+
+Copyright (c) 2016 <Lucas Blair>
+
+License: MIT
+
+<calculates interest rate after n years>
+"""
 from math import pow
 A = 1000
 n = 3
