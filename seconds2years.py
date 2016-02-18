@@ -1,3 +1,12 @@
+"""
+File: <seconds2years.py>
+
+Copyright (c) 2016 <Lucas Blair>
+
+License: MIT
+
+<Tells whether a baby will live to a billion seconds>
+"""
 year = (3600*24*365)
 lifeyears = 1000000000/year
 print lifeyears
